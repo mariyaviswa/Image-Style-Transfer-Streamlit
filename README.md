@@ -1,13 +1,14 @@
 <h1>Description</h1>
-
-Developed an image style transfer app using Python and Streamlit. It lets users upload images and apply artistic styles to them using deep learning. 
+<p align="justify">
+Developed an image style transfer app using Python and Streamlit. It lets users upload images and apply artistic styles using deep learning. 
 The app provides an interactive, user-friendly interface for real-time style transfer results.
 
-The app allows users to upload both an input image and a style image. Once the images are uploaded, the app processes them, displaying a loading animation until the style transfer is complete. 
-The result? A beautifully stylized image that users can preview directly in the app.
+The app allows users to upload both input and style images. Once the images are uploaded, the app processes them, displaying a loading animation until the style transfer is complete. 
+A beautifully stylized image that users can preview directly in the app.
 
 Additionally, the app includes a feature to download the stylized image, making it user-friendly and efficient for anyone looking to apply artistic styles to their photos with ease. 
-This project leverages deep learning techniques to bring artistic creativity to life in a seamless web interface
+This project leverages deep learning techniques to bring artistic creativity to life in a seamless web interface.
+</p>
 
 <h2>Installation Steps</h2>
 
@@ -38,7 +39,7 @@ This project leverages deep learning techniques to bring artistic creativity to 
              pip install -r requirements.txt
          </code>
        </pre>
-3. Run the download_saved_models.py
+3. Run the <b>download_saved_models.py</b>
    <br>
    <br>
    For getting saved models to perform style transfer run this file
@@ -52,14 +53,14 @@ This project leverages deep learning techniques to bring artistic creativity to 
 4. Move to neural_style Folder or directory
    <br>
    <br>
-   After running the download_saved_models.py, will see the saved_models.zip in the current folder,
+   After running the <b>download_saved_models.py</b>, will see the <b>saved_models.zip</b> in the current folder,
    unzip the folder and move to neural_style folder.
    <br>
    <br>
-6. Run the main.py file
+6. Run the <b>main.py</b> file
    <br>
    <br>
-   Before run the main.py file change the directory
+   Before run the <b>main.py</b> file change the directory
    <br>
    <br>
        <pre>
@@ -76,7 +77,14 @@ This project leverages deep learning techniques to bring artistic creativity to 
          </code>
        </pre>
      
-   
+
+<h2>Sample Output</h2>
+<br>
+<br>
+   <img src="https://github.com/mariyaviswa/Image_Style_Transfer_Streamlit/blob/master/sample_output%20(1).png">
+   <br>
+   <br>
+   <img src="https://github.com/mariyaviswa/Image_Style_Transfer_Streamlit/blob/master/sample_output%20(2).png">
    
    
    
