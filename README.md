@@ -85,6 +85,10 @@ This project leverages deep learning techniques to bring artistic creativity to 
    <br>
    <br>
    <img src="https://github.com/mariyaviswa/Image_Style_Transfer_Streamlit/blob/master/sample_output%20(2).png">
+<h2> Downloaded Image </h2>
+   <br>
+   <br>
+   <img src="https://github.com/mariyaviswa/Image_Style_Transfer_Streamlit/blob/master/sample_output%20(1).jpg">
 
 
    
