@@ -54,7 +54,7 @@ This project leverages deep learning techniques to bring artistic creativity to 
    <br>
    <br>
    After running the <b>download_saved_models.py</b>, will see the <b>saved_models.zip</b> in the current folder,
-   unzip the folder and move to neural_style folder.
+   unzip the folder, and move to the neural_style folder.
    <br>
    <br>
 6. Run the <b>main.py</b> file
@@ -85,6 +85,8 @@ This project leverages deep learning techniques to bring artistic creativity to 
    <br>
    <br>
    <img src="https://github.com/mariyaviswa/Image_Style_Transfer_Streamlit/blob/master/sample_output%20(2).png">
+
+
    
    
    
