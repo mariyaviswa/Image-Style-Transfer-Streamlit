@@ -1,4 +1,4 @@
-<h1>Description</h1>
+<h1>Image Style Transfer</h1>
 <p align = "justify">
 Developed an image-style transfer app using Python and Streamlit. It lets users upload images and apply artistic styles using deep learning. 
 The app provides an interactive, user-friendly interface for real-time style transfer results.
